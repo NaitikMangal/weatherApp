@@ -1,3 +1,3 @@
 # weatherApp
 ## Live Demo
-You can view the live version of this project: https://naitikweatherapp.netlify.app
+Live view of the weatheApp: https://naitikweatherapp.netlify.app
